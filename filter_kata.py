@@ -8,7 +8,7 @@ print(result)
 print(len(result))
 
 
-with open('kata_dasar_filter.txt', 'w') as f:
+with open('BaliVocab.txt', 'w') as f:
     for i in result:
         f.write("%s\n" % i)
 

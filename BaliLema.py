@@ -1,7 +1,7 @@
 import re
 
 # vocab
-with open('kata_dasar_filter.txt') as f:
+with open('BaliVocab.txt') as f:
     vocabs = f.read().splitlines()
 #rules
 rules = [0,1,2,3,4,5]
@@ -573,25 +573,25 @@ testWord = [
 # ,'makurenan'
 # ,'manuturin'
 # ,'mangorahang'
-    'makesiab',
-    'mayasa',
-    'mikut',
-    'mubad',
-    'pileh',
-    'kicen',
-    'sajagat',
-    'sausan',
-    'adiri',
-    'aukud',
-    'prajani',
-    'paribasa',
-    'pariindik',
-    'patigrepe',
-    'makasami',
-    'makaukud',
-    'sakabesik',
-    'sakaukud',
-    'kumajaum'
+#     'makesiab',
+#     'mayasa',
+#     'mikut',
+#     'mubad',
+#     'pileh',
+#     'kicen',
+#     'sajagat',
+#     'sausan',
+#     'adiri',
+#     'aukud',
+#     'prajani',
+#     'paribasa',
+#     'pariindik',
+#     'patigrepe',
+#     'makasami',
+#     'makaukud',
+#     'sakabesik',
+#     'sakaukud',
+#     'kumajaum'
 
 ]
 # print(testWord)
@@ -600,10 +600,10 @@ testWord = [
 
 # print(lematization('ngajeng'))
 
-sentence = "tiang ngajeng lawar celeng meguling"
+# sentence = "tiang ngajeng lawar celeng meguling"
 
-for i in sentence.split():
-    print(lematization(i))
+# for i in sentence.split():
+#     print(lematization(i))
 
 
 
