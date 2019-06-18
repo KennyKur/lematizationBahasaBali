@@ -1,0 +1,1616 @@
+ada katuturan satua i siap selem ngelah pianak pepitu
+ada tutur satua i siap selem gelah anak pitu 
+SALAH:0
+
+ane paling cerika tusing ngelah bulu madan i doglagan
+ane paling cerik tusing gelah bulu adan i doglag 
+SALAH:0
+
+sawaiwai i siap selem ngalih amah nganti ke dauh pangkunge
+awai i siap selem kalih amah kanti ke dauh pangkung 
+SALAH:1
+
+sedek dina anu ritatkala i siap selem teken panak  panakne ngalih amah dauh pangkunge lantas langite megerudug nyihnayang lakar ujan
+sedek dina anu ritatkala i siap selem teken panak panak kalih amah dauh pangkung lantas langit grudug siagayang lakar ujan 
+SALAH:2
+
+me lan jani mulih
+me lan jani mulih 
+SALAH:0
+
+ento guleme gede gati  keto pianakne kelihan ngomong
+ento gulem gede gati keto panak kelih gomong 
+SALAH:0
+
+ao me tiang takut nyanan iraga ujanan dini pianakne lian milu masaut cening jak mekejang lan jani ditu di umahe ento malu maembon
+a me tiang takut nyanan iraga ujan dini panak lian milu saut cening jak kejang lan jani ditu di umah ento malu embon
+SALAH:0
+
+yen jani iraga mulih pedas iraga ujanan
+yen jani iraga mulih pedas iraga ujan 
+SALAH:0
+
+tolih ento adine i doglagan
+tolih ento adi i doglag 
+SALAH:0
+
+ia tusing ngelah bulu
+ia tusing gelah bulu 
+SALAH:0
+
+yen ia ujanan pepes bisa mati  keto i siap selem maorahan teken pianak  pianakne
+yen ia ujan pepes bisa mati keto i siap selem orah teken anak panak 
+SALAH:0
+
+lantas i siap selem teken pianakne makapitu ngungsi kaumahe ane ada di sisin pangkunge ento
+lantas i siap selem teken panak pitu ungsi umah ane ada di sisi pangkung ento 
+SALAH:0
+
+pekenne adanina  jero jero sane madue pondok niki dados ke tiang milu maembon    keto i siap selem metakon
+peken adan jero jero sane due pondok niki dados ke tiang milu embon keto i siap selem takon 
+SALAH:0
+
+lantas pesu ane ngelah umahe ento boya ja sios wantah meong lua madan meng kuuk
+lantas pesu ane gelah umah ento boya ja sios wantah meong lua adan meng kuuk 
+SALAH:0
+
+ ngeong ngeong ih cai siap selem ngudiang cai mai
+kecong kecong ih cai siap selem kudiang cai mai 
+SALAH:2
+
+jero meong tiang mriki jagi maembon mawinan tiang madue pianak  pianak kari alit
+jero meong tiang mriki jagi embon mawinan tiang due anak anak kari alit 
+SALAH:0
+
+tusing melah keneh tiange ngajakin ngrobok ujan   
+tusing melah keneh tiang ngaja crobo ujan 
+SALAH:2
+
+ nah lamun buka keto lan mai macelep ka tengah    ditu lantas meng kuuk ngajakin i siap selem tekening pianakne mulihan
+nah lamun buka keto lan mai celep ka tengah ditu lantas meng kuuk ngaja i siap selem reke panak mulih
+SALAH:2
+
+sajaan lantas tuun ujan bales pesan ngaenang pangkunge blabar
+sajaan lantas tuun ujan bales pesan ngae pangkung blabar 
+SALAH:0
+
+meng kuuk nanjenin i siap selem apanga nginep di umahne
+meng kuuk tanjen i siap selem apang inep di umah 
+SALAH:0
+
+i siap selem nyak nginep kerana ia pedalem teken pianakne
+i siap selem nyak inep keran ia pedalem teken panak 
+SALAH:0
+
+petengne i siap selem tusing ngidayang pules
+peteng i siap selem tusing ngid pules 
+SALAH:1
+
+ditu lantas ia ningeh meng kuuk mererembug ajaka pianak  pianakne
+ditu lantas ia dingeh meng kuuk rembug jaka anak panak 
+SALAH:1
+
+cening ajak mekejang petenge ene iraga lakar pesta besar
+cening ajak kejang peteng e iraga lakar pesta besar 
+SALAH:0
+
+ne meme ngelah siap pengina ngajak pianak makapitu    keto munyine meng kuuk 
+ne meme gelah siap pengina ajak anak pitu keto munyi meng kuuk 
+SALAH:0
+
+tiang baang kibulne me keto pesaut panakne
+tiang baang kibul me keto saut panak 
+SALAH:0
+
+tiang baang kampidne me pianakne len milu mesaut
+tiang baang kampid me panak len milu saut 
+SALAH:0
+
+ningeh tutur meng kuuke teken pianak  pianakne buka keto lantas i siap selem nundunin pianak pianakne
+dingeh tutur meng kuuk teken anak panak buka keto lantas i siap selem dundun anak panak 
+SALAH:0
+
+ning bangun ning
+ning bangun ning 
+SALAH:0
+
+ento meng kuuk nagih ngamah iraga
+ento meng kuuk nagih amah iraga 
+SALAH:0
+
+mai jani iraga megedi uling dini
+mai jani iraga megedi uling dini 
+SALAH:0
+
+cening malu mekeber nyanan meme ngemilunin
+cening malu keber nyanan meme ngilu 
+SALAH:1
+
+lantas seka besik pianak i siap seleme makeber ngecosin pangkung
+lantas seka besik anak i siap selem keber ngeces pangkung 
+SALAH:0
+
+brrr burr suuak… keto pianakne ane paling keliha makeber
+brrr burr suuak… keto panak ane paling kelih keber 
+SALAH:0
+
+apa ento siap selem metakon meng kuuk
+apa ento siap selem takon meng kuuk 
+SALAH:0
+
+ento don timbule ulung keto i siap selem nyautin
+ento don timbul ulung keto i siap selem sautin 
+SALAH:1
+
+brrr burr suuak… keto pianakne lenan makeber
+brrr burr suuak… keto panak len keber 
+SALAH:0
+
+apa ento siap selem meng kuuk buin matakon
+apa ento siap selem meng kuuk buin takon
+SALAH:0
+
+ento don tiinge ulung pesautne siap selem
+ento don tiing ulung pesat siap selem 
+SALAH:0
+
+lantas seka besik pianakne i siap selem mekeber ngentasin pangkung
+lantas seka besik panak i siap selem keber entas pangkung
+SALAH:0
+
+jani enu i siap selem teken i doglagan dogen ditu di umahne meng kuuk
+jani enu i siap selem teken i doglag doger ditu di umah meng kuuk 
+SALAH:1
+
+mabesen lantas i siap selem teken i doglagan
+besen lantas i siap selem teken i doglag 
+SALAH:0
+
+cening doglagan jani meme lakar ngalahin cening dini
+cening doglag jani meme lakar galah cening dini 
+SALAH:1
+
+nyanan yen lakar amaha teken i meng kuuk duegang bane madaya
+nyanan yen lakar amah teken i meng kuuk dueg ban daya 
+SALAH:0
+
+orahang eben caine nu pait nu belig sing pantes daar malu
+orah eben cai nu pait nu belig sing pantes daar malu 
+SALAH:0
+
+tunden ia ngubuhin cai nganti tumbuh bulu
+tunden ia ubuh cai kanti tumbuh bulu
+SALAH:0
+
+yen suba tumbuh bulun caine ditu lantas cai keberang ibane mulih
+yen suba tumbuh bulu cai ditu lantas cai keber iba mulih 
+SALAH:0
+
+lantas i siap selem makeber ngentasin pangkung
+lantas i siap selem keber entas pangkung
+SALAH:0
+
+brrr burr suuak… keto munyin pakeber i siap seleme
+brrr burr suuak… keto munyi keber i siap selem 
+SALAH:0
+
+apa ento siap selem matakon lantas i meng kuuk
+apa ento siap selem takon lantas i meng kuuk
+SALAH:0
+
+tusing ada ne nyautin
+tusing ada ne sautin 
+SALAH:1
+
+ditu lantas i meng kuuk nelokin pedemane i siap selem
+ditu lantas i meng kuuk delok pedem i siap selem 
+SALAH:0
+
+mekesiab lantas ia mare dapetanga tuah ada i doglagan ditu
+kesiab lantas ia bare dapetan tuah ada i doglag ditu 
+SALAH:1
+
+beh pasti busan ane orahange dondonan ulung ento boya ja len wantah i siap selem teken pianak  pianakne
+beh pasti busan ane orahanga dondon ulung ento boya ja len wantah i siap selem teken anak panak 
+SALAH:1
+
+meme kanggoang dogen suba pitike cenik ene daar keto panakne mamunyi
+meme anggo dogen suba pitik cenik ane daar keto panak munyi
+SALAH:0
+
+duh jero para meong sinamian sampunang tiang ajenga mangkin
+duh jero para meong sami sampunang tiang ajeng mangkin
+SALAH:0
+
+tiang konden tumbuh bulu sinah eben tiange pait belig miwah ten jaan ajeng
+tiang konde tumbuh bulu sinah eben tiang pait belig miwah be jaan ajeng 
+SALAH:1
+
+pinih becik ubuhin dumun tiang nganti tumbuh bulu drika wawu dados ajeng tityang
+pinih becik ubuh dumun tiang kanti tumbuh bulu drika wawu dados ajeng titi 
+SALAH:1
+
+i doglagan mautsaha madaya upaya apang sing amaha teken i meng kuuk lan pianak  pianakne
+i doglag utsaha daya upaya apang sing amah teken i meng kuuk lan anak panak 
+SALAH:0
+
+i meng kuuk kena baana kabelogbelog baan i doglagan
+i meng kuuk kena baan begbeg baan i doglag 
+SALAH:1
+
+ia nyak ngubuhin i doglagan
+ia nyak ubuh i doglag
+SALAH:0
+
+i doglagan wadahina guungan lan sabilang wai baanga ngamah
+i doglag wadah guung lan sabilang wai baang amah
+SALAH:0
+
+gelising satua jani bulun i doglagane suba tumbuh
+gesing satua jani bulu i doglag suba tumbuh 
+SALAH:1
+
+meng kuuk lan pianakne pada repot ngae lakar basa anggona ngolah ben doglagane
+meng kuuk lan panak pada repot ngae lakar basa anggon olah be doglag 
+SALAH:0
+
+eh cai doglagan jani cai lakar amah kai
+eh cai doglag jani cai lakar amah kai 
+SALAH:0
+
+nggih dados nika jero
+nggih dados nika jero 
+SALAH:0
+
+nanging apang eben tiange jaanan keburang dumun tiang ping telu
+nanging apang eben tiang jaan cebur dumun tiang ping telu 
+SALAH:0
+
+meng kuuk lantas ngeburang i doglagan
+meng kuuk lantas gebur i doglag 
+SALAH:0
+
+pas keburane ping telu mekeber lantas i doglagan
+pas kuburan ping telu keber lantas i doglag 
+SALAH:1
+
+joh pakeberne lantas ngenceg duur batune
+joh keber lantas enceg duur batun 
+SALAH:0
+
+meng kuuk nguber i doglagan lan tingalina ia ngenceg duur batune
+meng kuuk uber i doglag lan tingal ia enceg duur batun 
+SALAH:0
+
+meng kuuk nyagrep nanging i doglagan ngenggalang makeber
+meng kuuk arep nanging i doglag ngenggalang keber 
+SALAH:1
+
+ane sagrepa i meng kuuk boya ja len tuah batu ane ngranaang gigine pungak
+ane repa i meng kuuk boya ja len tuah batu ane gancang gigi pungak
+SALAH:2
+
+i doglagan makeber sambilanga ngendingin i meng kuuk
+i doglag keber sabilang gending i meng kuuk 
+SALAH:0
+
+ngik ngak ngik nguk gigi pungak nyaplok batu ngik ngak ngik nguk gigi pungak nyaplok batu
+cik bak cik cuk gigi pungak caplok batu cik bak cik cuk gigi pungak caplok batu 
+SALAH:0
+
+keto suba upah anake ane demen mebikas corah
+keto suba upah anak ane demen bikas corah 
+SALAH:0
+
+iraga mangda setata madaya upaya yening nepukin unduk lan ngelawan sane mabikas jele
+iraga mangda setata daya upaya yening sepukin unduk lan kelayan sane bikas jele 
+SALAH:1
+
+ada tuturan satua i sugih teken i tiwas
+ada tutur satua i sugih teken i tiwas 
+SALAH:0
+
+i sugih ia sugih pesan nanging demit
+i sugih ia sugih pesan nanging demit 
+SALAH:0
+
+tur ia iri ati jail teken anak lacur
+tur ia iri ati jail teken anak lacur 
+SALAH:0
+
+liu anake tusing demen teken i sugih
+liu anak tusing demen teken i sugih 
+SALAH:0
+
+i tiwas buka adane tiwas pesan nanging melah solahne tusing taen jail teken timpal
+i tiwas buka adan tiwas pesan nanging melah solah tusing taen jail teken timpal
+SALAH:0
+
+saisai i tiwas ka alase ngalih saang lakar adepa ka peken
+saisai i tiwas ka alas kalih saang lakar depa ka peken 
+SALAH:1
+
+nuju dina anu i tiwas kumah i sugihe ngidih api
+tuju dina anu i tiwas umah i sugih kidih api 
+SALAH:0
+
+ditu ngomong i sugih ih tiwas alihin ja icang kutu yan sube telah nyanan upahine baas
+ditu gomong i sugih ih tiwas alih ja icang kutu yan sube telah nyanan upah baas 
+SALAH:1
+
+ i tiwas ngalihin kutun i sugihe sube tengai mare suud
+i tiwas alih kutu i sugih sube tengai bare suud
+SALAH:1
+
+i tiwas upahine baas acrongcong
+i tiwas upah baas crongcong 
+SALAH:0
+
+ia ngencolang mulih lantas baase ento jakana
+ia kencang mulih lantas baas ento jakan 
+SALAH:1
+
+i sugih jumahne masiksikan maan kutu aukud
+i sugih jumah siksik maan kutu ukud 
+SALAH:0
+
+ngenggalang ia kumah i tiwase laut ngomong kene ih tiwas ene icang maan kutu aukud
+ngenggalang ia umah i tiwas laut gomong kene ih tiwas e icang maan kutu ukud 
+SALAH:1
+
+jani mai ulihang baas icange i tuni
+jani mai ulih baas icang i tuni 
+SALAH:0
+
+ mesaut i tiwas  yeh baase i tuni suba jakan tiang
+saut i tiwas yeh baas i tuni suba jakan tiang 
+SALAH:0
+
+ masaut i sugih nah ento suba aba mai anggon pasilih
+saut i sugih nah ento suba aba mai anggon silih 
+SALAH:0
+
+nasine ane sube ngantiang lebeng ento juange
+nasi ane sube gantang lebeng ento juang 
+SALAH:1
+
+kayang kuskusane abana baan i sugih
+kayang kuskus aba baan i sugih 
+SALAH:0
+
+nyananne buin teka i sugih laut ngomong ih tiwas i tuni bena nyilih api teken saang
+nyanan buin teka i sugih laut gomong ih tiwas i tuni be silih api teken saang 
+SALAH:2
+
+api teken saang icange ento patut manakan
+api teken saang icang ento patut jakan 
+SALAH:1
+
+jani mai aba panak apine teken saang icange ento
+jani mai aba panak api teken saang icang ento 
+SALAH:0
+
+ditu lantas apin i tiwase juanga baan i sugih
+ditu lantas pin i tiwas juang baan i sugih 
+SALAH:1
+
+tekaning saangne apesel gede masih juanga i tiwas bengong ngenehang lacurne buka keto
+tekaning saang pesel gede masih juang i tiwas bengong kenehang lacur buka keto
+SALAH:0
+
+maninne i tiwas tundene nebuk padi baan i sugih
+maninn i tiwas tunden tebuk padi baan i sugih 
+SALAH:1
+
+lakar upahine baas duang crongcong
+lakar upah baas duang crongcong 
+SALAH:0
+
+i tiwas nyak nebuk kanti sanja mara pragat
+i tiwas nyak tebuk kanti sanja mara pragat 
+SALAH:0
+
+upahina ia baas laut encol mulih lakar nyakan
+upah ia baas laut encol mulih lakar jakan 
+SALAH:0
+
+i sugih jumahne nyeksek baasne maan latah dadua
+i sugih jumah seksek baas maan latah dadua 
+SALAH:0
+
+ditu encol ia kumah i tiwase
+ditu encol ia umah i tiwas 
+SALAH:0
+
+suba teked laut ngomong ih tiwas ene baase enu misi latah dadua
+suba teked laut gomong ih tiwas e baas enu isi latah dadua 
+SALAH:1
+
+jani ulihang baas icange
+jani ulih baas icang 
+SALAH:0
+
+yan suba majakan ento aba mai suud ia ngomong keto lantas jakanan i tiwase juanga
+yan suba jakan ento aba mai suud ia gomong keto lantas jakan i tiwas juang 
+SALAH:0
+
+kayang payukne masih juanga baan i sugih
+kayang payuk pasih juang baan i sugih 
+SALAH:0
+
+sedek dina anu i tiwas luas ka alase krasak krosok ngalih saang
+sedek dina anu i tiwas luas ka alas krasak krosok kalih saang 
+SALAH:0
+
+saget teka sang kidang tur ngomong ih tiwas apa kaalih ditu masaut i tiwas tur nasarin pesan tiang ngalih saang teken paku
+saget teka sang adang tur gomong ih tiwas apa alih ditu saut i tiwas tur dasari pesan tiang kalih saang teken paku 
+SALAH:3
+
+ lakar anggon apa ngalih paku masaut i tiwas lakar anggon tiang jukut
+lakar anggon apa kalih paku saut i tiwas lakar anggon tiang jukut 
+SALAH:0
+
+ ih tiwas lamun nyai nyak nyeluk jit nirane ditu ada pabaang nira teken nyai
+ih tiwas lamun nyai nyak celuk jit nirane ditu ada pabaang dira teken nyai 
+SALAH:0
+
+ditu lantas seluka jit kidange
+ditu lantas seluk jit b=kidang
+SALAH:0
+
+mara kedenga bek limane misi mas teken selaka
+mara kedeng bek lima isi bas teken selaka 
+SALAH:0
+
+suud keto sang kidang ilang
+suud keto sang kidang ilang
+SALAH:0
+
+i tiwas kendel pesan lantas mulih
+i tiwas kendel pesan lantas mulih 
+SALAH:0
+
+teked jumah ia luas ka pande
+teked jumah ia luas ka pande 
+SALAH:0
+
+nunden ngae gelang bungkung teken kalung
+tunden ngae gelang bungkung teken kalung
+SALAH:0
+
+i tiwas jani sugih liu ngelah mas slake
+i tiwas jani sugih liu gelah bas saak 
+SALAH:1
+
+mekejang pianakne nganggo bungah megelang mabungkung makalung mas
+kejang panak kanggo bungah gelang bungkung kalung bas
+SALAH:0
+
+lantas ia pesu mablanja
+lantas ia pesu blanja 
+SALAH:0
+
+ditu tepukina i tiwas teken i sugih
+ditu tepukina i tiwas teken i sugih 
+SALAH:1
+
+ia jengis delakdelik ngiwasin pianakne i tiwas
+ia jengis cadik iwas panak i tiwas 
+SALAH:1
+
+maninne i sugih ka umahne i tiwas matakon ih tiwas dije nyai maan slake liu masaut i tiwas kene mbok ibi tiang ka alase ngalih lakar jukut
+mani i sugih ka umah i tiwas patakon ih tiwas di nyai maan saak liu saut i tiwas kene mbok ibi tiang ka alas kalih lakar jukut
+SALAH:1
+
+saget ada kidang nunden nyeluk jitney
+saget ada kidang tunden celuk jitney
+SALAH:1
+
+lantas seluk tiang ditu maan mas teken slake
+lantas seluk tiang ditu maan mas teken saak
+SALAH:0
+
+ mara keto i sugih ngencolang mulih
+mara keto i sugih kencang mulih 
+SALAH:1
+
+maninne i sugih ngemalunin luas ka alase
+mani i sugih ngalu luas ka alas
+SALAH:1
+
+i sugih nyarunyaru buka anake tiwas
+i sugih anyar buka anak tiwas 
+SALAH:1
+
+ditu ia krasakkrosok ngalih saang teken paku
+ditu ia krasakkrosok kalih saang teken paku 
+SALAH:0
+
+saget teka sang kidang tur matakon nyen ento krasakkrosok masaut i sugih sambilanga maakin sang kidang tiang i tiwas uli puang tiang tuara nyakan
+saget teka sang kidang tur patakon nyen ento krasakkrosok saut i sugih sabilang abin sang adang kidang i tiwas uli bang tiang tuara jakan
+SALAH:3
+
+ i sugih klebetklebet bayune kendel pesan
+i sugih klebetklebet bayu kendel pesan 
+SALAH:0
+
+mesaut sang kidang ih tiwas mai dini seluk jit nirane mara keto lantas seluka jit kidange ento
+saut sang kidang ih tiwas mai dini seluk jit nirane mara keto lantas seluk jit kidang ento
+SALAH:0
+
+mara macelep limanne lantas kijem jit kidange
+mara celep lima lantas kijem jit kidang
+SALAH:0
+
+i sugih paida abana ka duiduine
+i sugih paid aba ka dundun 
+SALAH:1
+
+i sugih ngeling aduhaduh katulungtulung
+i sugih ngeling aduh katulung-tulung 
+SALAH:0
+
+nunas ica nunas ica lebang tiang tiang kapok tiang kapok
+nunas ica nunas ica leb tiang tiang kapok tiang kapok 
+SALAH:0
+
+di pangkunge i sugih mara lebanga
+di pangkung i sugih mara gebang 
+SALAH:1
+
+ia pepetengan awakne matatu babak belur
+ia pelengan awak tatu babak belur 
+SALAH:1
+
+di subanne inget ia magaang mulih
+di suba inget ia gaang mulih 
+SALAH:0
+
+teked jumahne lantas ia gelem makelo
+teked jumah lantas ia gelem makelo 
+SALAH:0
+
+keto upah anake loba tur iri ati
+keto upah anak loba tur iri ati 
+SALAH:0
+
+ada tuturan satua anak ubuh
+ada tutur satua anak ubuh 
+SALAH:0
+
+nu cerik suba kalahina mati baan meme bapanne
+nu cerik suba kalah mati baan meme bapa 
+SALAH:0
+
+ento krana ia adanina i ubuh
+ento krana ia adan i ubuh 
+SALAH:0
+
+i ubuh ajaka teken pekakne
+i ubuh jaka teken pekak 
+SALAH:1
+
+geginan pekakne saisai makena bubu ka tukade
+geginan pekak saisai kena bubu ka tukad
+SALAH:0
+
+i ubuh demen pesan nutug anak makena bubu
+i ubuh demen pesan nutug anak kena bubu 
+SALAH:0
+
+wireh sai maan udang sayan demen ia nutug pekakne
+wireh sai maan udang sayan demen ia nutug pekak 
+SALAH:0
+
+jani i ubuh suba matuuh sawatara nem tiban
+jani i ubuh suba tuuh acara nem tiban 
+SALAH:1
+
+ajahina ia ngulat bubu teken pekakne
+rahina ia ulat bubu teken pekak 
+SALAH:1
+
+masih ajahina i ubuh masastra
+masih rahina i ubuh sastra
+SALAH:1
+
+lingsir sanja mara ia makena bubu di tukade
+lingsir sanja mara ia kena bubu di tukad
+SALAH:0
+
+saisai keto geginanne i ubuh
+saisai keto geginan i ubuh 
+SALAH:0
+
+sayan makelo sayan resep ia masastra
+sayan makelo sayan resep ia sastra
+SALAH:0
+
+baan antengne ia ngulat bubu makelokelo liu masih ia ngelah bubu udang
+baan anteng ia ulat bubu makelo-kelo liu pasih ia gelah bubu udang 
+SALAH:1
+
+sedek dina anu ia luas ka tukade padidiana
+sedek dina anu ia luas ka tukad padidi
+SALAH:0
+
+maninne semengan mara bubunne angkida
+mani semengan mara bubu angkid
+SALAH:0
+
+bek misi udang gede gede pagrepe
+bek isi udang gede gede arep
+SALAH:0
+
+liang pesan kenehne i ubuh maan udang liu
+liang pesan keneh i ubuh maan udang liu 
+SALAH:0
+
+udangne abana mulih baanga pekakne
+udang aba mulih baang pekak 
+SALAH:0
+
+sasubanne matanding tanding lantas adepa ka peken
+subang tanding tanding lantas depa ka peken
+SALAH:0
+
+pipisne wadahina celengan
+pipis wadah celeng
+SALAH:0
+
+sayan demen kenehne makena bubu pipisne mapunduh
+sayan demen keneh kena bubu pipis punduh 
+SALAH:0
+
+tuyuhne i ubuh sadina dina nekaang pikolih
+tuyuh i ubuh dingding kaang ilih 
+SALAH:3
+
+sayan jemet ia magae anteng melajah muah sesai makena bubu
+sayan jemet ia gae anteng lajah muah sesai kena bubu 
+SALAH:1
+
+pekakne demen pesan wireh cucunne dueg tur seleg
+pekak demen pesan wireh cucu dueg tur seleg 
+SALAH:0
+
+cerita jani semengan teka i ubuh uli makena bubu
+cerita jani semeng teka i ubuh uli kena bubu
+SALAH:0
+
+pajalane enduk masebeng ngeling sedih pangenahne
+ajahan enduk sebeng ngeling sedih genah
+SALAH:1
+
+pekakne sada makesiab ngantenang tur metakon kene to kenken buka tumbene cai masebeng jengis biasane cai setata bingar yan teka uli ngangkid bubu
+pekak sada kesiab tenang tur takon kene to kenken buka tumben cai sebeng jengis biasa cai setata bingar yan teka uli ngangkid bubu
+SALAH:1
+
+ i ubuh sada adeng mesaut pekak pocol tiang tan polih udang mangkin
+i ubuh sada adeng saut pekak pocol tiang tan polih udang mangkin
+SALAH:0
+
+minab wenten anak mamaling
+minab wenten anak paling 
+SALAH:1
+
+nyanan pacang tongosin tiang di tukade
+nyanan pacang tongos tiang di tukad
+SALAH:0
+
+keto kone munyinne i ubuh
+keto kone munyi i ubuh
+SALAH:0
+
+jengah pesan kenehne i ubuh wireh isin bubunne ilang
+jengah pesan keneh i ubuh wireh isi bubu ilang 
+SALAH:0
+
+lantas ia nyangih madik kanti mangan anggona gegawan
+lantas ia nyangih madik kanti mangan anggon gega 
+SALAH:1
+
+suba nyaluk sanja lantas ia negen bubu tur natad madik ka tukade
+suba caluk sanja lantas ia tegen bubu tur tadtad madik ka tukad
+SALAH:0
+
+bubunne makejang kone kenaanga di tongose ane melah
+bubu kejang kone kencang di tongos ane melah
+SALAH:0
+
+i ubuh ngintip di batan abinge nganggar madik mangan
+i ubuh intip di batan abing nganggar madik mangan 
+SALAH:0
+
+mara liwat tengah lemeng ada kone tonya pesu uli tibuane
+mara liwat tengah lemeng ada kone tonya pesu uli tabuan
+SALAH:1
+
+gobanne aeng pesan awakne mabulu kumisne tebel kalesne brenges jenggotne lambih
+goba aeng pesan awak bulu kumis tebel kales brenges jenggot lambih 
+SALAH:0
+
+bubun i ubuhe ungsina lantas ketoganga
+bubu i ubuh ungsi lantas ketogang 
+SALAH:0
+
+udangne amaha matah matahan
+udang amah matah matah
+SALAH:0
+
+o ne ane ngamah isin bubun kaine keto nyetne i ubuh
+o ne ane amah isi bubu in keto nyen i ubuh 
+SALAH:1
+
+i ubuh tusing buin makeneh jag magaang ia maakin tonyane ento
+i ubuh tusing buin keneh jag gaang ia abin tonya ento 
+SALAH:1
+
+sedeng iteha ia ngamah udang matah jag liduna kone jenggotne tekekanga
+sedeng iteh ia amah udang matah jag lidu ane jenggot tekekanga 
+SALAH:0
+
+i ubuh ngwalek nganggar madik
+i ubuh walek nganggar madik 
+SALAH:0
+
+nah jani tawang kai iba ane ngamah isin bubun kaine
+nah jani tawang kai iba ane amah isi bubu in 
+SALAH:1
+
+jani masin dosan ibane ngamah ulih aluh
+jani pasin dosa iba amah ulih aluh 
+SALAH:0
+
+ keto munyinne i ubuh ngejer baan pedihne
+keto munyi i ubuh kejer baan pedih 
+SALAH:0
+
+i tonya takut tan kadi kadi ngenot madik malelam
+i tonya takut ta kadi kadi enot madik baleman
+SALAH:0
+
+ngetor kone ia baan jejehne sambilanga ngidih olas
+getor ane ia baan jejeh sabilang kidih olas 
+SALAH:0
+
+ubuh kai ngidih olas teken iba
+ubuh kai kidih olas teken iba 
+SALAH:0
+
+do kai matianga
+do kai tiang 
+SALAH:1
+
+kai tusing ja lakar engsap teken piolas ibane
+kai tusing ja lakar engsap teken olas iba 
+SALAH:0
+
+kai madan i gede urub
+kai adan i gede urub 
+SALAH:0
+
+umah kai dini di tibuane
+umah kai dini di tabuan 
+SALAH:1
+
+yen iba lega ne baanga pipis bolong aketeng anggon panyilur angkihan awake
+yen iba lega ne baang pipis bolong aketeng anggon anyir angkihan awak 
+SALAH:1
+
+pipise ene ciri cai maan nulungin awake
+pipis e ciri cai maan bulung awak 
+SALAH:1
+
+mani puan yen cai nepukin keweh kaukin adan wakene ping telu
+mani puan yen cai sepukin keweh kauk adan aken ping telu 
+SALAH:1
+
+ditu kai ngwales olas ibane
+ditu kai wales olas iba 
+SALAH:0
+
+ mara i ubuh ningeh muyin tonyane keto ilang pedihne
+mara i ubuh dingeh buin tonya keto ilang pedih 
+SALAH:0
+
+ubuh kema cai mulih kai masih lakar mulih keto kone panyuud munyin tonyane ento
+ubuh kema cai mulih kai pasih lakar mulih keto ane anyud munyi tonya ento 
+SALAH:0
+
+i ubuh manggutan ngemel pipis bolong laut majalan mulih
+i ubuh anggut kemel pipis bolong laut jalan mulih 
+SALAH:0
+
+mara kone ia majalan telung tindakan toliha i gede urub saget sube ilang di benengan tibuane
+mara ane ia jalan telung tindak tolih i gede urub saget sube ilang di beneng tabuan 
+SALAH:0
+
+gelising satua suba kone i ubuh teked jumahne
+gesing satua suba ane i ubuh teked jumah 
+SALAH:0
+
+laut katuturang undukne keto teken pekakne
+laut tutur unduk keto teken pekak 
+SALAH:0
+
+ubuh melahang ngaba pipis pabaang tonyane ento
+ubuh melah aba pipis pabaang tonya ento 
+SALAH:0
+
+ento madan jimat anggona mingetin ukudan caine
+ento adan jimat anggon inget ukud cai 
+SALAH:0
+
+nyen je ngelah jimat buka keto lakar nepukin sadia
+nyen a gelah jimat buka keto lakar sepukin sadia 
+SALAH:1
+
+ lega pesan i ubuh ningeh munyin pekakne
+lega pesan i ubuh dingeh munyi pekak 
+SALAH:0
+
+buina sukat ia ngaba jimat tusing taen kelangan isin bubu
+buina sukat ia aba jimat tusing taen kelang isi bubu 
+SALAH:0
+
+sai ia maan udang gedegede
+sai ia maan udang gede gede
+SALAH:0
+
+bubunne setata bek misi udang
+bubu setata bek isi udang 
+SALAH:0
+
+gelising satua kacerita jani ada sang prabu
+gesing satua cerita jani ada sang prabu 
+SALAH:0
+
+sadinadina nyakitin panjak
+dingding palitin panjak 
+SALAH:1
+
+di kenkene ida ngae balih balihan ane nakutin
+di kenken ida ngae balih balih  ane takut
+SALAH:0
+
+macan aduanga nglawan jlema
+macan adang lawan jlema 
+SALAH:0
+
+yen sing macan singa ane seduk mekenta lebina
+yen sing macan sing ane seduk kenta labi 
+SALAH:0
+
+makejang anake jejeh tuara bani mapalawanan
+kejang anak jejeh tuara bani mapalawanan 
+SALAH:0
+
+ane sengkala nglantas mati amah singa
+ane cengkal gantas mati amah sing 
+SALAH:2
+
+anake agung tuah ngadu prakosa marasa teken kuasa
+anak agung tuah adu prakosa rasa teken kuas 
+SALAH:0
+
+jani ida sedek makarya lelombaan buka kene
+jani ida sedek karya lembaran buka kene 
+SALAH:1
+
+ada bangbang linggah di tengahne bek kapacekin tumbak taji kadutan ane lanying tur mangan
+ada bangbang linggah di tengah bek kacek tumbak taji kadut ane lanying tur mangan 
+SALAH:0
+
+nyen ja nyidaang ngecogin bangbange ento tur ngalahang anake agung ento lakar nyeneng ratu ditu
+nyen ja bidang kecog bangbang ento tur lalang anak agung ento lakar nyeneng ratu ditu 
+SALAH:1
+
+liu pesan anake mebalih rasa bek meres bencingahe
+liu pesan anak balih rasa bek meres bencingah 
+SALAH:0
+
+jani kacerita suba ngawit lelombane ento
+jani cerita suba kawit lemba ento 
+SALAH:1
+
+liu suba ulung ka bangbange laut mati nepen tumbak
+liu suba ulung ka bangbang laut mati tepen tumbak 
+SALAH:0
+
+anake agung seneng kayunne macingak naen tuara ada ngalahang
+anak agung seneng kayunne cingak taen tuara ada lalang 
+SALAH:1
+
+i ubuh milu masih paek mabalih ditu
+i ubuh milu pasih paek balih ditu 
+SALAH:0
+
+wireh tuara ada ane bani buin makecog i ubuh paksana ajaka liu
+wireh tuara ada ane bani buin kecog i ubuh paksa jaka liu 
+SALAH:1
+
+anake agung ica wireh i ubuh ngetor baan takutne
+anak agung ica wireh i ubuh getor baan takut 
+SALAH:0
+
+inget lantas teken pabesen tonyane ane malu laut ia ngomong  gede urub tulung tiang gede urub tulung gede urub
+inget lantas teken besen tonya ane malu laut ia gomong gede urub tulung tiang gede urub tulung gede urub 
+SALAH:0
+
+liwat i ubuh uli bangbange
+liwat i ubuh uli bangbang 
+SALAH:0
+
+anake bengong mabalih baan kuatne i ubuh
+anak bengong balih baan kuat i ubuh 
+SALAH:0
+
+i ubuh surunga ajaka liu tur sunggina
+i ubuh surung jaka liu tur sunggi
+SALAH:1
+
+anake agung jengah tuara karunguang lantas sahasa makecog
+anak agung jengah tuara rungu lantas sahasa kecog 
+SALAH:0
+
+ulung nepen tumbak laut seda jalan pejang
+ulung tepen tumbak laut seda jalan pejang 
+SALAH:0
+
+suba keto i ubuh kone lantas dadi ratu ditu
+suba keto i ubuh ane lantas dadi ratu ditu 
+SALAH:0
+
+sedek dina anu nuju anake rame megae di carik ada ane mara nenggala nglampit muah ada suba mamula
+sedek dina anu tuju anak rame gae di carik ada ane mara tenggala lampit muah ada suba pula 
+SALAH:0
+
+ditu liu kedise mapunduh punduh ngalih amah
+ditu liu kedis punduh punduh kalih amah
+SALAH:0
+
+sedeng itepa kedise cerik cerik ngalih amah saget ada kedis gede pesan teka uli delod pasih
+sedeng itep kedis cerik cerik kalih amah saget ada kedis gede pesan teka uli delod pasih
+SALAH:0
+
+bulunne samah kampidne lumbang matanne gede tur galak pesan madan sang muun
+bulu samah kampid lumbang mata gede tur galak pesan adan sang puun 
+SALAH:0
+
+ditu ia bareng ngalih amah
+ditu ia bareng kalih amah 
+SALAH:0
+
+kedise ane cerikcerik nyeh pesan nepukin kedise ane gede tur galak ento
+kedis ane cerik cerik nyeh pesan sepukin kedis ane gede tur galak ento
+SALAH:1
+
+tusing ada ane bani paek baan takutne
+tusing ada ane bani paek baan takut 
+SALAH:0
+
+kacerita jani ada kedis cerik ngindang ba duur madan sang lanjana
+cerita jani ada kedis cerik indang ba duur adan sang lanjar 
+SALAH:0
+
+ia sliaksliuk makeber di duur carike
+ia sliaksliuk keber di duur carik 
+SALAH:0
+
+jengah pesan ia nepukin ada kedis gede bareng ngalih amah sig tongos kedise cerikcerik
+jengah pesan ia sepukin ada kedis gede bareng kalih amah sig tongos kedis cerik cerik
+SALAH:1
+
+solahne jele pesan teken kedise lenan sabilang ada ane paek nagih cotota
+solahne jele pesan teken kedis len sabilang ada ane paek nagih cotot 
+SALAH:0
+
+ditu sang lanjana age metakon ih ne te jerone uli dije tumben tepukin tiang dini bareng ngalih amah
+ditu sang lanjar age takon ih ne a jero uli di tumben tepuk tiang dini bareng kalih amah 
+SALAH:0
+
+buina jerone kaliwat sombong pesan
+buina jero liwat sombong pesan 
+SALAH:0
+
+ mare ningeh ada kedis cerik ane mamunyi keto pedih sang muun tur mesaut banggras ah iba kedis cerik mapimapi tuara nawang
+bare dingeh ada kedis cerik ane munyi keto pedih sang puun tur saut banggras ah iba kedis cerik api-api tuara tawang 
+SALAH:0
+
+ne suba ane madan sang muun
+ne suba ane adan sang puun 
+SALAH:0
+
+ratun kedise uli delod pasih
+ratu kedis uli doh pasih 
+SALAH:0
+
+degag tingkah ibane mesuang peta teken kai
+degag tingkah iba buang peta teken kai 
+SALAH:0
+
+suba kone keto masaut sang lanjana tui iba dadi ratu kai tuara megusti teken iba
+suba ane keto saut sang lanjar tui iba dadi ratu kai tuara gusti teken iba 
+SALAH:0
+
+buina kai tonden taen merasa kalah
+buina kai tonden taen rasa kalah 
+SALAH:0
+
+jet ja iba gede tuara ja gedenan apa tain ibane teken tain kaine
+jet ja iba gede tuara ja geden apa tain iba teken tain in 
+SALAH:0
+
+yadin iba makampid lumbang kai tusing takut
+yadin iba kampid lumbang kai tusing takut 
+SALAH:0
+
+yen prade lakar mapetuk mategehtegehan makeber
+yen prade lakar petuk tegteg keber 
+SALAH:0
+
+baan ningeh munyine sang lanjana keto jengah gati sang muun lantas ia ngomong beh degag pesan iba mesuang peta
+baan dingeh munyi sang lanjar keto jengah gati sang puun lantas ia gomong beh degag pesan iba buang peta 
+SALAH:0
+
+iba soroh kedis kapecit nagih ngalahang kai
+iba soroh kedis pecit nagih lalang kai 
+SALAH:0
+
+ukudan ibane tuah amun tain kaine dogen
+ukud iba tuah amun tain in doger 
+SALAH:0
+
+nah apang kai nawang tegarang iba meju jani
+nah apang kai tawang tegar iba peju jani 
+SALAH:0
+
+amuncen geden tain ibane
+manten geden tain iba 
+SALAH:0
+
+mare keto sang lanjana laut kirigkirig tumuli makecos di duur tain kebone sambilange ngomong ih iba sang muun
+bare keto sang lanjar laut biri-biri tumuli kecos di duur tain kebon sabilang gomong ih iba sang puun 
+SALAH:0
+
+ne dong iwasin tain kaine sang muun bengong ngiwasin tainne sang lanjana tur merasa teken dewek kalahang kedis cenik
+ne dong iwas tain in sang puun bengong iwas tain sang lanjar tur rasa teken dewek kalah kedis cenik 
+SALAH:0
+
+sasubanne keto ngomong sang muun brangti nah saja kai kalah dening gedenan tain ibane
+subang keto gomong sang puun brangti nah saja kai kalah dening geden tain iba 
+SALAH:0
+
+ane jani jalan mategehtegehan makeber keto abetne sang muun laut nimbal sang lanjana jalan mai tutug kai
+ane jani jalan tegteg keber keto abet sang puun laut timbal sang lanjar jalan mai tutug kai 
+SALAH:0
+
+laut ngamaluin sang lanjana makeber
+laut apabuin sang lanjar keber 
+SALAH:0
+
+sang muun sahasa ngetut pakeberne sang lanjana
+sang puun sahasa ketut keber sang lanjar 
+SALAH:0
+
+di subane paek encol sang lanjana mencegan di tendas sang muune sambilange nyohcoh tendasne
+di suba paek encol sang lanjar enceg di tendas sang buung sabilang cohcoh tendas 
+SALAH:0
+
+sang muun tuara ajin teken solahne sang lanjana keto
+sang puun tuara ajin teken solahne sang lanjar keto 
+SALAH:0
+
+buina tuara merasa tendasne tinggahina baan sang lanjana mapan sang lanjana madewek kedis cerik
+buina tuara rasa tendas munggahin baan sang lanjar mapan sang lanjar dewek kedis cerik 
+SALAH:0
+
+gelisang satua suba tegeh pakeberne sang muun
+gelis satua suba tegeh keber sang puun 
+SALAH:0
+
+laut ia makaukan sang lanjana sang lanjana uuuh keto pasautne sang lanjana
+laut ia kauk sang lanjar sang lanjar uuuh keto pasaran sang lanjar 
+SALAH:0
+
+dingeha sawat pesan ba duur teken sang muun
+dingeh aat pesan ba duur teken sang puun 
+SALAH:0
+
+dening karasa sang lanjana nu ba duuran laut sang muun ngietang makeber negehang
+dening karas sang lanjar nu ba duuran laut sang puun petang keber negehang 
+SALAH:0
+
+ditu buin ia makaukan sang lanjana sang lanjana uuuh keto buin pasautne sang lanjana
+ditu buin ia kauk sang lanjar sang lanjar uuuh keto buin pasaran sang lanjar 
+SALAH:0
+
+sambilanga nyohcoh tendasne sang muun
+sabilang cohcoh tendas sang puun 
+SALAH:0
+
+dening dingeha munyin sang lanjana nu masi ba duuran dadi buin sang muun makeber negehang
+dening dingeh munyi sang lanjar nu si ba duuran dadi buin sang puun keber negehang 
+SALAH:0
+
+dewekne suba marasa kenyel pesan buin tendasne marasa suba ngaap tur sakit
+dewek suba rasa kenyel pesan buin tendas rasa suba ngaap tur sakit 
+SALAH:0
+
+dening keto ngomong jani sang muun ih sang lanjana awake jani suba ngaku kalah
+dening keto gomong jani sang puun ih sang lanjar awak jani suba kaku kalah 
+SALAH:0
+
+tusing sida baan kai nutug cai jalan suba jani tuun sang muun laut ngencolang masliuk nuunang
+tusing sida baan kai nutug cai jalan suba jani tuun sang puun laut kencang balik tuunang 
+SALAH:0
+
+sang lanjana ngincegang nyohcoh tendasne sang muun
+sang lanjar inceg cohcoh tendas sang puun 
+SALAH:0
+
+kanti maklumpasan kulit kaun tendasne
+kanti klupakan kulit kaun tendas 
+SALAH:0
+
+di subane teked beten sang lanjana laut ngenggalang makecog masangkliban di bête
+di suba teked beten sang lanjar laut ngenggalang kecog sangkil di bête 
+SALAH:0
+
+sang muun sakit nandang tatu di tendasne
+sang puun sakit andang tatu di tendas 
+SALAH:0
+
+kasuensuen sang muun mati baan naanang sakit
+sasenden sang puun mati baan baan sakit 
+SALAH:0
+
+keto upah anake demen ngrusuhin anak cerikan tur banggi muah sombong teken anak len
+keto upah anak demen rurubin anak cerik tur banggi muah sombong teken anak len 
+SALAH:0
+
+ada katuturan satua ane malu
+ada tutur satua ane malu 
+SALAH:0
+
+anak luh balu ngelah pianak luh adiri
+anak luh balu gelah anak luh adiri 
+SALAH:0
+
+adanina i ketimun mas
+adan i ketimun bas 
+SALAH:0
+
+ia mumah di tanggun desane desa dauh yeh paek teken alas
+ia umah di tanggu desa desa dauh yeh paek teken alas 
+SALAH:0
+
+kacerita jani sedek semengan memenne bakal luas ka peken
+cerita jani sedek semengan meme bakal luas ka peken 
+SALAH:0
+
+mabesen ia teken panakne kene cening cening ketimun mas meme bakal luas ka peken
+besen ia teken panak kene cening cening ketimun bas meme bakal luas ka peken 
+SALAH:0
+
+nyai ngijeng jumah nyanan gapgapina laklak
+nyai ijeng jumah nyanan gapgapan laklak 
+SALAH:0
+
+jumahan meten nyai nongos kancing men jlanane
+jumah meten nyai tongos kancing men jelanan 
+SALAH:0
+
+yening ada anak kaukkauk tidong meme da pesan ampakina
+yening ada anak kauk-kauk tidong meme a pesan ampak 
+SALAH:0
+
+kacerita kone jani i ketimun mas nongos jumahan meten makancing jlanan
+cerita ane jani i ketimun bas tongos jumah meten kancing jaan 
+SALAH:0
+
+saget teka i raksasa kaukkauk munyinne gede tur garo
+saget teka i raksa kauk-kauk munyi gede tur garo 
+SALAH:0
+
+cening  cening ketimun mas meme teka ampakin meme jlanan pedasange baan i ketimun mas
+cening cening ketimun bas meme teka ampak meme jaan pedasanga baan i ketimun bas 
+SALAH:0
+
+ne nyen ya ngelah munyinne nguda gede tur garo bah tidong i meme
+ne nyen ya gelah munyi nguda gede tur garo bah tidong i meme 
+SALAH:0
+
+ keto kenehne i ketimun mas
+keto keneh i ketimun bas 
+SALAH:0
+
+i raksasa tusing ampakina jlanan
+i raksa tusing ampak jaan 
+SALAH:0
+
+mulih lantas i raksasa
+mulih lantas i raksa 
+SALAH:0
+
+kacerita jani teka memenne
+cerita jani teka meme 
+SALAH:0
+
+ampakina lantas jlanan kriut gedebleg
+ampak lantas jaan kriut gedebleg 
+SALAH:0
+
+morahan i ketimun mas meme ibusan ada anak kaukkauk
+corah i ketimun bas meme ibusan ada anak kauk-kauk 
+SALAH:0
+
+munyinne gede tur garo
+munyi gede tur garo 
+SALAH:0
+
+beh jejeh pesan keneh tiange
+beh jejeh pesan keneh tiang 
+SALAH:0
+
+tusing bani tiang ngampakin jlanan
+tusing bani tiang ampak jaan 
+SALAH:0
+
+ memenne kendel kenehne
+meme kendel keneh 
+SALAH:0
+
+i ketimun mas gapgapina laklak atekor
+i ketimun bas gapgapan laklak tekor 
+SALAH:0
+
+tur lantas ngomong katawang ento ane kaukkauk i tunian i raksasa ento
+tur lantas gomong tawang ento ane kauk-kauk i punia i raksa ento 
+SALAH:0
+
+yen ento ampakin pedas cening plaibange
+yen ento ampak pedas cening plaibanga 
+SALAH:0
+
+buin manine buin memenne ka peken
+buin mani buin meme ka peken 
+SALAH:0
+
+makire majalan memenne mabesen cening cening meme lakar ka peken
+makire jalan meme besen cening cening meme lakar ka peken 
+SALAH:0
+
+jumah meten ngijeng kancing jlanane
+jumah meten ijeng kancing jelanan 
+SALAH:0
+
+ingetang munyin memene ibi
+inget munyi meme ibi 
+SALAH:0
+
+yening tusing meme ane mekaukan da pesan ampakina jlanan
+yening tusing meme ane kauhan a pesan ampak jaan 
+SALAH:0
+
+kacerita jani i raksasa lakar buin kumahne i ketimun mas
+cerita jani i raksa lakar buin ane i ketimun bas 
+SALAH:0
+
+di jalan nepukin ia anak ngangon bebek
+di jalan sepukin ia anak ngangon bebek 
+SALAH:0
+
+paekina pangangon ento awakne ngetor pesu peluh baan jejehne
+paek angon ento awak getor pesu peluh baan jejeh 
+SALAH:0
+
+ngomong i raksasa ih jero pengangon bebek jalan kema kumahne i ketimun mas
+gomong i raksa ih jero ngangon bebek jalan kema ane i ketimun bas 
+SALAH:0
+
+nyanan lamun tusing jumah memenne kauikin i ketimun mas masaut i pangangon mindah bebek tiange tusing ada nongosin
+nyanan lamun tusing jumah meme kaik i ketimun bas saut i angon mindah bebek tiang tusing ada tongos 
+SALAH:0
+
+ galak i raksasa  yen tusing nyak ia tendasne kamah
+galak i raksa yen tusing nyak ia tendas amah 
+SALAH:0
+
+basang awake seduk
+basang awak seduk 
+SALAH:0
+
+ mara keto abetne i raksasa nyak lantas i pengangon bebek
+mara keto abet i raksa nyak lantas i ngangon bebek 
+SALAH:0
+
+dapetange umahne i ketimun mas suung
+dapetan umah i ketimun bas suung 
+SALAH:0
+
+ngomong i raksasa teken i pangangon nah kema kaukin i ketimun mas
+gomong i raksa teken i angon nah kema kauk i ketimun bas 
+SALAH:0
+
+ia jumahan meten makancing jlanan
+ia jumah meten kancing jaan 
+SALAH:0
+
+jangihang munyine cara munyin memenne
+jangih munyi cara munyi meme 
+SALAH:0
+
+cening cening ketimun mas
+cening cening ketimun bas 
+SALAH:0
+
+ampakin ja meme jlanan apa kendel i ketimun mas
+ampak ja meme jaan apa kendel i ketimun bas 
+SALAH:0
+
+kadena saja memenne teka
+kaden saja meme teka 
+SALAH:0
+
+kriut gedebleg jlanane kaampakang
+kriut gedebleg jelanan ampak 
+SALAH:0
+
+saget saupa i ketimun mas plaibanga baan i raksasa
+saget saup i ketimun bas plaibanga baan i raksa 
+SALAH:0
+
+beh jeritjerit i ketimun mas ngeling
+beh jijih i ketimun bas ngeling 
+SALAH:0
+
+
+
+SALAH:0
+
+
+
+SALAH:0
+
+gelisang satua neked i raksasa jumahne
+gelis satua teked i raksa jumah 
+SALAH:0
+
+tekepina i ketimun mas aji grobag tetehina aji lesing batu
+tekep i ketimun bas aji grobag tetehan aji lesing batu 
+SALAH:0
+
+i raksasa ngelah juru ijeng dadua
+i raksa gelah juru ijeng dadua 
+SALAH:0
+
+ne adiri buta ane lenan bongol
+ne adiri buta ane len bongol 
+SALAH:0
+
+ngomong i raksasa  buta bongol eda luas kemamai awake lakar ngalih bakal basa akejep
+gomong i raksa buta bongol eda luas kema-mai awak lakar kalih bakal basa akejep 
+SALAH:0
+
+ ngarod i ketimun mas ngeling di tengah grobage mateteh lesung
+arod i ketimun bas ngeling di tengah grobag teteh lesung 
+SALAH:0
+
+jani kacerita memenne i ketimun mas mara teka uli di peken
+jani cerita meme i ketimun bas mara teka uli di peken 
+SALAH:0
+
+dapetange umahne suung jlanan ampikne mampakan
+dapetan umah suung jaan ampik mbakan 
+SALAH:0
+
+pianakne tusing ada
+panak tusing ada 
+SALAH:0
+
+gelargelur ia makaukan
+gargar ia kauk 
+SALAH:0
+
+tusing ada ane masaut
+tusing ada ane saut 
+SALAH:0
+
+ngeling lantas memenne i ketimun mas tur mapineh
+ngeling lantas meme i ketimun bas tur pineh 
+SALAH:0
+
+pedas i ketimun mas plaibanga baan i raksasa
+pedas i ketimun bas plaibanga baan i raksa 
+SALAH:0
+
+kenkenang jani baan madaya
+kenken jani baan daya 
+SALAH:0
+
+lantas ada kone meong teken bikul kema maekin memenne i ketimun mas
+lantas ada ane meong teken bikul kema matek meme i ketimun bas 
+SALAH:0
+
+men ketimun mas ngomong nah ne apa sang meong ajaka sang bikul
+men ketimun bas gomong nah ne apa sang meong jaka sang bikul 
+SALAH:0
+
+nyak ngalih i ketimun mas ia plaibanga baan i raksasa
+nyak kalih i ketimun bas ia plaibanga baan i raksa 
+SALAH:0
+
+yen teka baan iba i ketimun mas upahina be bajo asok teken padi abodag
+yen teka baan iba i ketimun bas upah be bajo asok teken padi bodag 
+SALAH:0
+
+nyak lantas i meong teken i bikul majalan ajaka dadua kumahne i raksasa
+nyak lantas i meong teken i bikul jalan jaka dadua ane i raksa 
+SALAH:0
+
+tepukina i ketimun mas matangkeb
+tepukina i ketimun bas tangkeb 
+SALAH:0
+
+tongosina baan i buta teken i bongol
+tongos baan i buta teken i bongol 
+SALAH:0
+
+i raksasa sedekan di paon repot munduhang bakal basa
+i raksa sedek di paon repot mundur bakal basa 
+SALAH:0
+
+kacerita pongponga grobage ban i bikul
+cerita pongpong grobag ban i bikul 
+SALAH:0
+
+i meong nyongkok duur grobage ngantiang
+i meong jongkok duur grobag gantang 
+SALAH:0
+
+krepetkrepet ngenyonyong krietkriet kepungpung
+krepetkrepet kenyong krietkriet pungpung 
+SALAH:0
+
+dingeha krietkriet teken i buta apa sih krepetkrepet ditu ngeong keto munyin meonge
+dingeh krietkriet teken i buta apa sih krepetkrepet ditu kecong keto munyi meong 
+SALAH:0
+
+sep apa sih gesgesa meonge ditu keto i buta
+sep apa sih gesges meong ditu keto i buta 
+SALAH:0
+
+ngomong i bongol ada meong duur grobage
+gomong i bongol ada meong duur grobag 
+SALAH:0
+
+ ulahang meonge bongol mendep i bongol wireh ia mula tusing ningeh
+ulah meong bongol endep i bongol wireh ia mula tusing dingeh 
+SALAH:0
+
+kanti linggah song grobage pongponga baan i bikul
+kanti linggah song grobag pongpong baan i bikul 
+SALAH:0
+
+suba ada asedengan jlema pesu lantas i ketimun mas
+suba ada semengan jlema pesu lantas i ketimun bas 
+SALAH:0
+
+ateha mulihne baan i meong teken i bikul
+ateh mulih baan i meong teken i bikul 
+SALAH:0
+
+neked jumahne nyagjang memenne kendel pesan kenehne
+teked jumah jagjag meme kendel pesan keneh 
+SALAH:0
+
+dewa ratu cening ketimun mas
+dewa ratu cening ketimun bas 
+SALAH:0
+
+mara teka aget pesan meme i meong teken i bikul lantas upahina be bajo asok teken padi abodag
+mara teka aget pesan meme i meong teken i bikul lantas upah be bajo asok teken padi bodag 
+SALAH:0
+
+i meong nyuang be bajone asok i bikul makatang padine abodag
+i meong juang be bajo asok i bikul tang padi bodag 
+SALAH:0
+
+keto katuturanne i ketimun mas
+keto tutuan i ketimun bas 
+SALAH:0
+
+kacerita ada i lutung masawitra ajak i kakua
+cerita ada i lutung sawitra ajak i kakua 
+SALAH:0
+
+sedek dina anu i lutung mamaling isen di tegal dukuh kantrungan ngajak i kakua
+sedek dina anu i lutung paling isen di tegal dukuh arungan ajak i kakua 
+SALAH:0
+
+sedeng iteha ngokoh isen saget teka dane dukuh kantrungan
+sedeng iteh kokoh isen saget teka adan dukuh arungan 
+SALAH:0
+
+i lutung encol makecos ka punya kayune sambilanga magending pupuh durma
+i lutung encol kecos ka punya kayun sabilang gending pupuh dum 
+SALAH:0
+
+jero dukuh puniki jua pirengan
+jero dukuh puniki jua pireng 
+SALAH:0
+
+i kakua ia manyingid
+i kakua ia ingid 
+SALAH:0
+
+di batan tengkulak
+di batan tengkulak 
+SALAH:0
+
+i lutung ia bubuan
+i lutung ia bubu 
+SALAH:0
+
+menek di kayu ia manyingid
+menek di kayu ia ingid 
+SALAH:0
+
+ih dukuh kantrungan
+ih dukuh arungan 
+SALAH:0
+
+nyen alih jero jani
+nyen alih jero jani 
+SALAH:0
+
+dukuh kantrungan ngenggalang ngungkab tengkulak
+dukuh arungan ngenggalang ngungkab tengkulak 
+SALAH:0
+
+bakatanga i kakua ia kijapkijap laut abane mulih
+bantang i kakua ia kija keja laut aba mulih 
+SALAH:0
+
+teked jumah dane dukuh ngaukin pianaknyane luh ayu kantrungan tur tundene ngae basa sawireh lakar nampah i kakua anggon lawar
+teked jumah adan dukuh alukin panakahan luh ayu arungan tur tunden ngae basa wireh lakar tampah i kakua anggon lawar 
+SALAH:0
+
+i kakua celepanga ka krangkenge tur encol ngaliang kulit bantal teken kulit biu kuning manut pangidih i kakua ring dane jero dukuh
+i kakua cenanga ka krangkeng tur encol liang kulit bantal teken kulit biu kuning manut kidih i kakua ring adan jero dukuh 
+SALAH:0
+
+lutung matolihan sambilanga ngetel paosne nepukin buka apa ane orahanga baan i kakua sarwi ngraos 
+lutung tolih sabilang ketel paos sepukin buka apa ane orahanga baan i kakua sarwi raos 
+SALAH:0
+
+duh kakua tutugang legan ibane tekening wake wake ja nyilurin iba nongos di krangkenge
+duh kakua tutug lega iba reke wak wak ja clurit iba tongos di krangkeng 
+SALAH:0
+
+masaut i kakua nah dong enggalang je bukaang jelana krangkenge disubane mabukaang krangkenge encol i lutung macelep ka krangkenge
+saut i kakua nah dong enggal a bukaang jalan krangkeng pisuna pabaang krangkeng encol i lutung celep ka krangkeng 
+SALAH:0
+
+i kakua nyelihsih pesu lantas ngancing krangkenge
+i kakua selasih pesu lantas kancing krangkeng 
+SALAH:0
+
+kacrita ni ayu kantrungan tengkejut rikale maekin krangkenge lakar nyemak i kakua tepukine ada lutung di tengah krangkenge
+crita di ayu arungan tengkejut bikal matek krangkeng lakar jemak i kakua sepukin ada lutung di tengah krangkeng 
+SALAH:0
+
+lantas nyeritin reramane  bapa wenten bojog ring krangkenge keto raos ni ayu
+lantas nyeritin ragane bapa wenten bojog ring krangkeng keto raos di ayu 
+SALAH:0
+
+jero dukuh kantrungan ngenggalang ke krangkenge  bah sedeng melaha ada lutung mokoh lung pesan anggon olah  olahan
+jero dukuh arungan ngenggalang ke krangkeng bah sedeng melah ada lutung mokoh lung pesan anggon olah olah 
+SALAH:0
+
+keto pangandikan dane jero dukuh
+keto andika adan jero dukuh 
+SALAH:0
+

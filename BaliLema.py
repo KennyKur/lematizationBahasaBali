@@ -7,6 +7,22 @@ with open('BaliVocab.txt') as f:
 rules = [0,1,2,3,4,5]
 # Komibinasi affix
 rules[0] = [
+    {'rule' : '^n[a-z]*in$',
+     'type' : 'wrap',
+     'action' : [
+         {'from' : '^n', 'to' : ['t']},
+        {'from' : 'in$', 'to' : ''},
+     ]
+    },
+    # sendiri
+    {'rule' : '^ny[a-z]*in$',
+     'type' : 'wrap',
+     'action' : [
+         {'from' : '^ny', 'to' : ['c','j','s']},
+        {'from' : 'in$', 'to' : ''},
+     ]
+    },
+    # sendiri end
     {'rule' : '^man[a-z]*in$',
      'type' : 'wrap',
      'action' : [
@@ -29,6 +45,16 @@ rules[0] = [
      ]
     },
 
+#     Tamvbah sendiri
+{'rule': '^ng[a-z]*in$',
+     'type': 'wrap',
+     'action': [
+
+         {'from': '^ng', 'to': ['','k','g']},
+         {'from': 'in$', 'to': ''}
+     ],
+     },
+
 ]
 # Somulfiks
 rules[1] = [
@@ -49,6 +75,52 @@ rules[1] = [
 ]
 # konfix
 rules[2] = [
+    # Tambah sendiri
+    {'rule': '^ka[a-z]*ang$',
+     'type':'non-wrap',
+     'action': [
+
+         {'from': '^ka', 'to': ''},
+        {'from': 'ang$', 'to': ''}
+     ],
+     },
+    {'rule': '^ny[a-z]*[aiueo]yang$',
+     'type':'non-wrap',
+     'action': [
+
+         {'from': '^ny', 'to': ['c','j','s']},
+        {'from': 'yang$', 'to': ''}
+     ],
+     },
+
+    {'rule': '^ka[a-z]*e$',
+     'type': 'non-wrap',
+     'action': [
+
+         {'from': '^ka', 'to': ''},
+         {'from': 'e$', 'to': ''}
+     ],
+     },
+
+    {'rule': '^ng[aiueo]*[a-z]*in$',
+     'type': 'non-wrap',
+     'action': [
+
+         {'from': '^ng', 'to': ['','k','g']},
+         {'from': 'in$', 'to': ''}
+     ],
+     },
+
+
+    {'rule': '^peng[aiueo][a-z]*ne$',
+     'type':'non-wrap',
+     'action': [
+
+         {'from': '^peng', 'to': ''},
+        {'from': 'ne$', 'to': ''}
+     ],
+     },
+    #end tambah sendiri
     {'rule': '^pa[a-z]*an$',
      'type':'non-wrap',
      'action': [
@@ -57,6 +129,16 @@ rules[2] = [
         {'from': 'an$', 'to': ''}
      ],
      },
+{'rule': '^ny[aiueo][a-z]*[^aiueo]in$',
+     'type':'non-wrap',
+     'action': [
+
+         {'from': '^ny', 'to': ['c','j','s']},
+        {'from': 'in$', 'to': ''}
+     ],
+     },
+
+
     {'rule': '^ka[a-z]*an$',
      'type':'non-wrap',
      'action': [
@@ -84,6 +166,14 @@ rules[2] = [
 ]
 rules[3] = [
     # Prefix
+    {'rule': '^ng[aiueo]',
+     'type': 'non-wrap',
+     'action': [
+
+         {'from': '^ng', 'to': ['k', 'g']}
+     ],
+     },
+
     {'rule' : '^ng[aiueo]',
      'type':'non-wrap',
      'action': [
@@ -116,13 +206,6 @@ rules[3] = [
      ],
      },
 
-    {'rule': '^ng[aiueo]',
-     'type':'non-wrap',
-     'action': [
-
-         {'from': '^ng', 'to': ['k', 'g']}
-     ],
-     },
 
     {'rule': '^m[aiueo]',
      'type':'non-wrap',
@@ -147,6 +230,27 @@ rules[3] = [
          {'from': '^ma', 'to': ''}
      ],
      },
+    {'rule': '^ma[aiueo]',
+     'type':'non-wrap',
+     'action': [
+
+         {'from': '^ma', 'to': ''}
+     ],
+     },
+    {'rule': '^me[^aiueo]',
+     'type':'non-wrap',
+     'action': [
+
+         {'from': '^me', 'to': ''}
+     ],
+     },
+    {'rule': '^me[aiueo]',
+     'type':'non-wrap',
+     'action': [
+
+         {'from': '^me', 'to': ''}
+     ],
+     },
     {'rule': '^ma[wy]',
      'type':'non-wrap',
      'action': [
@@ -154,13 +258,13 @@ rules[3] = [
          {'from': '^ma', 'to': ''}
      ],
      },
-    {'rule': '^m[aiueo]',
-     'type':'non-wrap',
-     'action': [
-
-         {'from': '^m', 'to': ''}
-     ],
-     },
+    # {'rule': '^m[aiueo]',
+    #  'type':'non-wrap',
+    #  'action': [
+    #
+    #      {'from': '^m', 'to': ''}
+    #  ],
+    #  },
     #pa
     {'rule': '^p[aiueo]',
      'type':'non-wrap',
@@ -274,6 +378,15 @@ rules[3] = [
          {'from': '^kuma', 'to': ''}
      ],
      },
+    # tambah sendiri
+    {'rule': '^n[^aiueo]',
+     'type': 'non-wrap',
+     'action': [
+
+         {'from': '^n', 'to': ''}
+     ],
+     },
+    # end tambah sendiri
 ]
 rules[4] = [
     # Suffix
@@ -377,6 +490,16 @@ rules[4] = [
 ]
 # Infiks
 rules[5] = [
+
+    #
+{'rule' : '[^aiueo]*in[aiueo][a-z]*an$',
+     'type':'wrap',
+     'action': [
+
+        {'from' : 'in' , 'to' : ''},
+        {'from' : 'an' , 'to' : ''}
+        ],
+     },
     # Inffix
     {'rule' : '[^aiueo]*in[aiueo][a-z]*',
      'type':'non-wrap',
@@ -442,6 +565,7 @@ def cekRegex(regex,word):
 def stemming(kata):
     #cek dulu di db
     listStem = []
+    listStem.append(kata)
     if(cekVocab(kata)):
         returnWord = kata
         matchRule = False
@@ -507,6 +631,7 @@ def lavenshteinDistance(s1, s2):
     return distances[-1]
 
 def lematization(input):
+    input = input.lower()
     output = False
     hasil = stemming(input)
     output = hasil['stemWord']
@@ -521,6 +646,71 @@ def lematization(input):
                 if(distance < longest):
                     longest = distance
                     recommend = word
+            # print(word,' ',distance)
+        # print('---')
+        # print(recommend)
+        output = recommend
+    return output
+
+def lematizationNoLD(input):
+    input = input.lower()
+    output = False
+    hasil = stemming(input)
+    output = hasil['stemWord']
+
+    if(hasil['stemWord'] == False):
+        longest = len(input)
+        recommend = input
+    #
+    #     for recWord in hasil['listStem']:
+    #         for word in vocabs:
+    #             distance = lavenshteinDistance(recWord,word)
+    #             if(distance < longest):
+    #                 longest = distance
+    #                 recommend = word
+    #         # print(word,' ',distance)
+    #     # print('---')
+    #     # print(recommend)
+        output = recommend
+    return output
+
+def lematizationDetail(input):
+    input = input.lower()
+    output = False
+    hasil = stemming(input)
+    output = hasil['stemWord']
+
+    if(hasil['stemWord'] == False):
+        longest = len(input)
+        recommend = input
+
+        for recWord in hasil['listStem']:
+            for word in vocabs:
+                distance = lavenshteinDistance(recWord,word)
+                if(distance < longest):
+                    longest = distance
+                    recommend = word
+            # print(word,' ',distance)
+        # print('---')
+        # print(recommend)
+        output = recommend
+    print(hasil)
+    print(output)
+
+def lematizationOld(input):
+    output = False
+    hasil = stemming(input)
+    output = hasil['stemWord']
+
+    if(hasil['stemWord'] == False):
+        longest = len(input)
+        recommend = input
+
+        for word in vocabs:
+            distance = lavenshteinDistance(input,word)
+            if(distance < longest):
+                longest = distance
+                recommend = word
             # print(word,' ',distance)
         # print('---')
         # print(recommend)
